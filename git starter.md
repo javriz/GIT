@@ -23,6 +23,6 @@
    git commit -m "your change detail/message"
    ```
 7. Sync command
-```
-git push 
-```
+   ```
+   git push 
+    ```
