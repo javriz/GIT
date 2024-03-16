@@ -26,3 +26,7 @@
    ```
    git push 
     ```
+8. Check version
+   ```
+   git --version
+   ```
